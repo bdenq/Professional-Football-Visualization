@@ -21,8 +21,8 @@ A team project that use Python, Flask, Leaflet, dash plotly, and plotly to creat
 **Note**: Please create a sql_config.py file with your database connection information.
 ## Setup Environment
 * clone repo
-    * **git clone https://github.com/BennyC31/project3.git**
-* root dir (project3)
+    * **git clone https://github.com/bdenq/Professional-Football-Visualization.git**
+* root dir (Professional-Football-Visualization)
     * **python3 -m venv venv** or **python -m venv venv**
 * activate environment
     * MacOS: **source venv/bin/activate**
@@ -32,7 +32,7 @@ A team project that use Python, Flask, Leaflet, dash plotly, and plotly to creat
     **pip install -r requirements.txt**
 
 ## Run App
-* footballdashboard dir (project3/footballdashboard)
+* footballdashboard dir (Professional-Football-Visualization/footballdashboard)
     **python app.py**
 * local default host:port
     ***http://127.0.0.1:5000***
