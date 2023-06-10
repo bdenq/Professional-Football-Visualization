@@ -1,0 +1,57 @@
+p {
+  padding: 10px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  font-family: serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 10px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+.legend .American {
+  color: red;
+}
+.legend .National {
+  color: blue;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.card-title {
+  color: blue;
+  font-size: 1.5em;
+}
+
+.no-margin
+{
+  margin-bottom: 0px !important;
+}
+
+.col-height {
+  height: 300;
+}
+
+.margin-left {
+  margin-left: 10px;
+}
